@@ -1,5 +1,4 @@
-{
-  "products": [
+[
     { "productId": 1, "productName": "Wireless Bluetooth Headphones", "productImage": "headphones.png", "productPrice": 2499.00, "productRating": 4.5 },
     { "productId": 2, "productName": "Smart Watch Series 7", "productImage": "smart_watch.png", "productPrice": 5999.00, "productRating": 4.2 },
     { "productId": 3, "productName": "Gaming Mouse RGB", "productImage": "gaming_mouse.png", "productPrice": 1499.00, "productRating": 4.7 },
@@ -36,4 +35,4 @@
     { "productId": 29, "productName": "Laptop Cooling Pad", "productImage": "cooling_pad.png", "productPrice": 1699.00, "productRating": 4.1 },
     { "productId": 30, "productName": "Smart Alarm Clock", "productImage": "smart_alarm_clock.png", "productPrice": 2899.00, "productRating": 4.3 }
   ]
-}
+
