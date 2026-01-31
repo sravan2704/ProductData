@@ -1,9 +1,9 @@
 [
     { "productId": 1, "productName": "Wireless Bluetooth Headphones", "productImage": "https://m.media-amazon.com/images/I/61RahTQtAqL._AC_UF1000,1000_QL80_.jpg", "productPrice": 2499.00, "productRating": 4.5 },
-    { "productId": 2, "productName": "Smart Watch Series 7", "productImage": "smart_watch.png", "productPrice": 5999.00, "productRating": 4.2 },
-    { "productId": 3, "productName": "Gaming Mouse RGB", "productImage": "gaming_mouse.png", "productPrice": 1499.00, "productRating": 4.7 },
-    { "productId": 4, "productName": "Mechanical Keyboard", "productImage": "keyboard.png", "productPrice": 3999.00, "productRating": 4.6 },
-    { "productId": 5, "productName": "USB-C Fast Charger 65W", "productImage": "usb_c_charger.png", "productPrice": 1999.00, "productRating": 4.3 },
+    { "productId": 2, "productName": "Smart Watch Series 7", "productImage": "https://m.media-amazon.com/images/I/71GIYSZpW+L._AC_UF1000,1000_QL80_.jpg", "productPrice": 5999.00, "productRating": 4.2 },
+    { "productId": 3, "productName": "Gaming Mouse RGB", "productImage": "https://png.pngtree.com/png-vector/20250117/ourmid/pngtree-single-rgb-gaming-mouse-on-a-white-background-png-image_15230356.png", "productPrice": 1499.00, "productRating": 4.7 },
+    { "productId": 4, "productName": "Mechanical Keyboard", "productImage": "https://t3.ftcdn.net/jpg/05/14/83/78/360_F_514837813_Cg27F2rvPKDPATUcFnZvG6h94dnLeMit.jpg", "productPrice": 3999.00, "productRating": 4.6 },
+    { "productId": 5, "productName": "USB-C Fast Charger 65W", "productImage": "https://m.media-amazon.com/images/I/71l+XBXDlVL._AC_UF1000,1000_QL80_.jpg", "productPrice": 1999.00, "productRating": 4.3 },
 
     { "productId": 6, "productName": "Bluetooth Speaker", "productImage": "https://e7.pngegg.com/pngimages/730/183/png-clipart-loudspeaker-enclosure-wireless-speaker-bluetooth-speaker-electronics-speaker.png", "productPrice": 3299.00, "productRating": 4.4 },
     { "productId": 7, "productName": "Laptop Stand Aluminum", "productImage": "laptop_stand.png", "productPrice": 1799.00, "productRating": 4.1 },
