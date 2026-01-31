@@ -1,5 +1,5 @@
 [
-    { "productId": 1, "productName": "Wireless Bluetooth Headphones", "productImage": "https://png.pngtree.com/png-vector/20250321/ourmid/pngtree-wireless-headphone-png-image_15830312.png", "productPrice": 2499.00, "productRating": 4.5 },
+    { "productId": 1, "productName": "Wireless Bluetooth Headphones", "productImage": "https://m.media-amazon.com/images/I/61RahTQtAqL._AC_UF1000,1000_QL80_.jpg", "productPrice": 2499.00, "productRating": 4.5 },
     { "productId": 2, "productName": "Smart Watch Series 7", "productImage": "smart_watch.png", "productPrice": 5999.00, "productRating": 4.2 },
     { "productId": 3, "productName": "Gaming Mouse RGB", "productImage": "gaming_mouse.png", "productPrice": 1499.00, "productRating": 4.7 },
     { "productId": 4, "productName": "Mechanical Keyboard", "productImage": "keyboard.png", "productPrice": 3999.00, "productRating": 4.6 },
