@@ -11,28 +11,28 @@
     { "productId": 9, "productName": "Portable Power Bank", "productImage": "https://img.freepik.com/premium-photo/power-bank-isolated-white-background_104576-352.jpg", "productPrice": 2299.00, "productRating": 4.4 },
     { "productId": 10, "productName": "USB Mechanical Hub", "productImage": "https://m.media-amazon.com/images/I/61XHVvynw4L.jpg", "productPrice": 1299.00, "productRating": 4.0 },
 
-    { "productId": 11, "productName": "Noise Cancelling Headphones", "productImage": "https://png.pngtree.com/png-vector/20240425/ourlarge/pngtree-model-a-pair-of-noise-canceling-headphones-png-image_12312814.png", "productPrice": 8999.00, "productRating": 4.8 },
-    { "productId": 12, "productName": "Gaming Controller", "productImage": "gaming_controller.png", "productPrice": 3499.00, "productRating": 4.5 },
-    { "productId": 13, "productName": "Smart Fitness Band", "productImage": "fitness_band.png", "productPrice": 1999.00, "productRating": 4.2 },
-    { "productId": 14, "productName": "Desk LED Lamp", "productImage": "desk_lamp.png", "productPrice": 1599.00, "productRating": 4.3 },
-    { "productId": 15, "productName": "Webcam Full HD", "productImage": "webcam.png", "productPrice": 2799.00, "productRating": 4.1 },
+    { "productId": 11, "productName": "Noise Cancelling Headphones", "productImage": "https://m.media-amazon.com/images/I/61-8u1fXChL._AC_UF1000,1000_QL80_.jpg", "productPrice": 8999.00, "productRating": 4.8 },
+    { "productId": 12, "productName": "Gaming Controller", "productImage": "https://images-cdn.ubuy.co.in/633ffae6ce9682316a4be2e6-wireless-gaming-controller-gamepad-fit.jpg", "productPrice": 3499.00, "productRating": 4.5 },
+    { "productId": 13, "productName": "Smart Fitness Band", "productImage": "https://m.media-amazon.com/images/I/61y0PUszwcL._AC_UF894,1000_QL80_.jpg", "productPrice": 1999.00, "productRating": 4.2 },
+    { "productId": 14, "productName": "Desk LED Lamp", "productImage": "https://m.media-amazon.com/images/I/71D2YNJoNNL._AC_UF1000,1000_QL80_.jpg", "productPrice": 1599.00, "productRating": 4.3 },
+    { "productId": 15, "productName": "Webcam Full HD", "productImage": "https://thumbs.dreamstime.com/b/realistic-white-webcam-20331058.jpg", "productPrice": 2799.00, "productRating": 4.1 },
 
-    { "productId": 16, "productName": "External SSD 1TB", "productImage": "https://png.pngtree.com/png-vector/20230328/ourmid/pngtree-ssd-solid-drive-computer-storage-vector-png-image_6672878.png", "productPrice": 10499.00, "productRating": 4.7 },
-    { "productId": 17, "productName": "Wireless Charging Pad", "productImage": "wireless_charger.png", "productPrice": 1899.00, "productRating": 4.2 },
-    { "productId": 18, "productName": "Smart Home Plug", "productImage": "smart_plug.png", "productPrice": 1499.00, "productRating": 4.0 },
-    { "productId": 19, "productName": "Portable Monitor 15.6\"", "productImage": "portable_monitor.png", "productPrice": 12499.00, "productRating": 4.6 },
-    { "productId": 20, "productName": "Ergonomic Office Chair", "productImage": "office_chair.png", "productPrice": 15999.00, "productRating": 4.5 },
+    { "productId": 16, "productName": "External SSD 1TB", "productImage": "https://m.media-amazon.com/images/I/71bBCTIvIIL._AC_UF1000,1000_QL80_.jpg", "productPrice": 10499.00, "productRating": 4.7 },
+    { "productId": 17, "productName": "Wireless Charging Pad", "productImage": "https://m.media-amazon.com/images/I/51JwLXVyPQL._AC_UF1000,1000_QL80_.jpg", "productPrice": 1899.00, "productRating": 4.2 },
+    { "productId": 18, "productName": "Smart Home Plug", "productImage": "https://m.media-amazon.com/images/I/61w98jO-ZiL._AC_UF1000,1000_QL80_.jpg", "productPrice": 1499.00, "productRating": 4.0 },
+    { "productId": 19, "productName": "Portable Monitor 15.6\"", "productImage": "https://m.media-amazon.com/images/I/81Jhf7H+dJL._AC_UF1000,1000_QL80_.jpg", "productPrice": 12499.00, "productRating": 4.6 },
+    { "productId": 20, "productName": "Ergonomic Office Chair", "productImage": "https://st.depositphotos.com/1000261/1721/i/450/depositphotos_17211293-stock-photo-office-chair.jpg", "productPrice": 15999.00, "productRating": 4.5 },
 
-    { "productId": 21, "productName": "VR Headset", "productImage": "https://static.vecteezy.com/system/resources/thumbnails/024/724/530/small/virtual-reality-or-vr-headset-isolated-on-transparent-background-vr-glasses-for-360-environment-games-or-simulation-training-generative-ai-free-png.png", "productPrice": 19999.00, "productRating": 4.4 },
-    { "productId": 22, "productName": "Smart Light Bulb", "productImage": "smart_bulb.png", "productPrice": 899.00, "productRating": 4.1 },
-    { "productId": 23, "productName": "Wireless Presenter", "productImage": "wireless_presenter.png", "productPrice": 1199.00, "productRating": 4.0 },
-    { "productId": 24, "productName": "Tablet Stand", "productImage": "tablet_stand.png", "productPrice": 999.00, "productRating": 4.2 },
-    { "productId": 25, "productName": "Graphic Drawing Tablet", "productImage": "drawing_tablet.png", "productPrice": 5499.00, "productRating": 4.6 },
+    { "productId": 21, "productName": "VR Headset", "productImage": "https://t3.ftcdn.net/jpg/01/39/05/54/360_F_139055472_IOLmdHf01FG3udivfRybELaHoIuCUbtc.jpg", "productPrice": 19999.00, "productRating": 4.4 },
+    { "productId": 22, "productName": "Smart Light Bulb", "productImage": "https://d1vfpdpyv21g5i.cloudfront.net/zunpulse/products_v5/bulb/D10000_1.jpg", "productPrice": 899.00, "productRating": 4.1 },
+    { "productId": 23, "productName": "Wireless Presenter", "productImage": "https://m.media-amazon.com/images/I/617VOhcMABL._AC_UF1000,1000_QL80_.jpg", "productPrice": 1199.00, "productRating": 4.0 },
+    { "productId": 24, "productName": "Tablet Stand", "productImage": "https://m.media-amazon.com/images/I/61ow41nk+BL._AC_UF1000,1000_QL80_.jpg", "productPrice": 999.00, "productRating": 4.2 },
+    { "productId": 25, "productName": "Graphic Drawing Tablet", "productImage": "https://m.media-amazon.com/images/I/51MXYwQJ1GL._AC_UF1000,1000_QL80_.jpg", "productPrice": 5499.00, "productRating": 4.6 },
 
-    { "productId": 26, "productName": "Action Camera 4K", "productImage": "https://png.pngtree.com/png-vector/20250608/ourmid/pngtree-4k-action-camera-isolated-on-transparent-background-png-image_16492715.png", "productPrice": 7499.00, "productRating": 4.3 },
-    { "productId": 27, "productName": "Smart Door Bell", "productImage": "smart_doorbell.png", "productPrice": 3299.00, "productRating": 4.2 },
-    { "productId": 28, "productName": "Wireless Keyboard & Mouse Combo", "productImage": "keyboard_mouse_combo.png", "productPrice": 2599.00, "productRating": 4.4 },
-    { "productId": 29, "productName": "Laptop Cooling Pad", "productImage": "cooling_pad.png", "productPrice": 1699.00, "productRating": 4.1 },
-    { "productId": 30, "productName": "Smart Alarm Clock", "productImage": "smart_alarm_clock.png", "productPrice": 2899.00, "productRating": 4.3 }
+    { "productId": 26, "productName": "Action Camera 4K", "productImage": "https://m.media-amazon.com/images/I/61VwXeITFjL._AC_UF1000,1000_QL80_.jpg", "productPrice": 7499.00, "productRating": 4.3 },
+    { "productId": 27, "productName": "Smart Door Bell", "productImage": "https://m.media-amazon.com/images/I/41Rqwgc+bPL.jpg", "productPrice": 3299.00, "productRating": 4.2 },
+    { "productId": 28, "productName": "Wireless Keyboard & Mouse Combo", "productImage": "https://m.media-amazon.com/images/I/610g8e2gyjL._AC_UF1000,1000_QL80_.jpg", "productPrice": 2599.00, "productRating": 4.4 },
+    { "productId": 29, "productName": "Laptop Cooling Pad", "productImage": "https://m.media-amazon.com/images/I/71x0ZJiPkJL._AC_UF1000,1000_QL80_.jpg", "productPrice": 1699.00, "productRating": 4.1 },
+    { "productId": 30, "productName": "Smart Alarm Clock", "productImage": "https://m.media-amazon.com/images/I/61eTydzFs3L._AC_UF894,1000_QL80_.jpg", "productPrice": 2899.00, "productRating": 4.3 }
   ]
 
